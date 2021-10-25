@@ -1,0 +1,11 @@
+p{
+    background-color:gray;
+    margin: 10px;
+  } 
+  span#result
+  {
+    color: blueviolet;
+    background-color: #009900;
+    margin: 2px;
+    font-size: 25px;
+  }
